@@ -31,6 +31,6 @@ Pair trading is a market-neutral strategy that involves identifying two highly c
 
 ## 🎮 Fun Fact
 
-- 🏆 Achieved “Ancient” rank in Dota 2 – strategy and analytics don’t stop at finance!
+- 🏆 Achieved “Ancient” rank in Dota 2
 
 ---
