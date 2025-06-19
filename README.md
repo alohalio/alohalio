@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I’m Nutthapat (alohalio)
 
-<!--
-**alohalio/alohalio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- **Role:** Data Scientist | Quantitative Finance Enthusiast
+- **Specialization:** Leveraging mathematical models and machine learning to solve complex problems in finance and data analysis.
+- **Mission:** To bridge the gap between data and decision-making in the financial world, using a blend of statistics, ML, and quantitative methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Top Skills
+
+- **Languages:** Python
+- **Expertise:** Machine Learning, Quantitative Finance, Statistical Modeling, Data Analysis
+
+---
+
+## 🚀 Featured Project
+
+### [Pair Trading System](#)
+A robust system for detecting and exploiting statistical arbitrage opportunities using quantitative models and ML techniques.  
+*(Link to the repository or description can be added here if you wish!)*
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn: Nutthapat L.](https://www.linkedin.com/in/nutthapat-l/)
+
+---
+
+## 🎮 Fun Fact
+
+- 🏆 Achieved “Ancient” rank in Dota 2 – strategy and analytics don’t stop at finance!
+
+---
