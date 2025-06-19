@@ -18,8 +18,6 @@
 ## 🚀 Featured Project
 
 ### [Pair Trading System](#)
-A robust system for detecting and exploiting statistical arbitrage opportunities using quantitative models and ML techniques.  
-*(Link to the repository or description can be added here if you wish!)*
 
 ---
 
