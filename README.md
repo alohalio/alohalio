@@ -12,7 +12,7 @@
 
 - **Languages:** Python
 - **Expertise:** Machine Learning, Quantitative Finance, Statistical Modeling, Data Analysis
-- **Tools:** Sklearn, Pytorch, Statsmodels
+- **Tools:** Sklearn, Pytorch, Statsmodels, Plotly
 
 ---
 
