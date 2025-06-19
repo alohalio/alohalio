@@ -10,9 +10,9 @@
 
 ## 💡 Top Skills
 
-- **Languages:** Python
+- **Languages:** Python, C++, SQL
 - **Expertise:** Machine Learning, Quantitative Finance, Statistical Modeling, Data Analysis
-- **Tools:** Sklearn, Pytorch, Statsmodels, Plotly
+- **Tools:** [Sklearn](https://github.com/scikit-learn/scikit-learn), [Pytorch](https://github.com/pytorch/pytorch), [Statsmodels](https://github.com/statsmodels/statsmodels), [Plotly](https://github.com/plotly/plotly.py)
 
 ---
 
