@@ -23,7 +23,7 @@ Pair trading is a market-neutral strategy that involves identifying two highly c
 
 ---
 
-## Upcoming Project
+## ⌛ Upcoming Project
 
 ---
 
