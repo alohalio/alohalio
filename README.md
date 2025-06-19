@@ -4,7 +4,7 @@
 
 - **Role:** Data Scientist | Quantitative Finance Enthusiast
 - **Specialization:** Leveraging mathematical models and machine learning to solve complex problems in finance and data analysis.
-- **Mission:** Landing jobs and bridge the gap between data and decision-making in the financial world, using a blend of statistics, ML, and quantitative methods.
+- **Mission:** Landing job and bridge the gap between data and decision-making in the financial world, using a blend of statistics, ML, and quantitative methods.
 
 ---
 
