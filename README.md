@@ -25,7 +25,7 @@ A robust system for detecting and exploiting statistical arbitrage opportunities
 
 ## 🌐 Connect with Me
 
-- [LinkedIn: Nutthapat L.](https://www.linkedin.com/in/nutthapat-l/)
+- LinkedIn: [Nutthapat L.](https://www.linkedin.com/in/nutthapat-l/)
 
 ---
 
