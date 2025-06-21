@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nutthapat (alohalio)
+# 👋 Hi, I’m Nutthapat
 
 ## 👨‍💻 About Me
 
