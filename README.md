@@ -24,6 +24,12 @@ Pair trading is a market-neutral strategy that involves identifying two highly c
 
 ---
 
+## ⌛ Upcoming Project
+
+### QRD(Quant Research Dashboard(ver.simple))
+
+---
+
 ## 🌐 Connect with Me
 
 - LinkedIn: [Nutthapat L.](https://www.linkedin.com/in/nutthapat-l/)
