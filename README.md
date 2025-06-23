@@ -19,7 +19,7 @@
 
 ## 🚀 Featured Projects
 
-### QRD
+### [QRD (Quant Research Dashboard)](https://github.com/alohalio/qrd)
 
 QRD is an interactive, browser-based dashboard for quantitative finance research and trading strategy analysis, built with Python, Plotly Dash, Scipy, and yfinance. It allows you to explore, visualize, and backtest trading signals, run Monte Carlo simulations, and perform sensitivity analysis to financial time series.
 
