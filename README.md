@@ -19,14 +19,16 @@
 
 ## 🚀 Featured Projects
 
+### QRD
+
+QRD is an interactive, browser-based dashboard for quantitative finance research and trading strategy analysis, built with Python, Plotly Dash, Scipy, and yfinance. It allows you to explore, visualize, and backtest trading signals, run Monte Carlo simulations, and perform sensitivity analysis to financial time series.
+
 ### [Pair Trading System](https://github.com/alohalio/PairTrading)
 Pair trading is a market-neutral strategy that involves identifying two highly correlated assets and trading based on their price divergence. The project fetches historical price data, performs cointegration analysis to identify tradable pairs, calculates hedge ratios (β), conducts a simple backtest of the trading strategy, and generates dynamic visualizations to evaluate performance.
 
 ---
 
 ## ⌛ Upcoming Project
-
-### QRD(Quant Research Dashboard(ver.simple))
 
 ---
 
