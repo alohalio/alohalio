@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-- **Role:** Aspiring Quant | Data Scientist
+- **Role:** Aspiring Quant | Data Scientist | Business
 - **Specialization:** Leveraging mathematical models and machine learning to solve complex problems in finance and data analysis.
 - **Goals:** Landing job and bridge the gap between data and decision-making in the financial world, using a blend of statistics, ML, and quantitative methods.
 
